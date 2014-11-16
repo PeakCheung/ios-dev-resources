@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A7DB0BB0-2DB1-4A39-A10B-7A75BDA521CA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIWindowDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B85D55EB555BBE6E79DAB4E4DCA90EBA7FB4CB1A</key>
+		<string>github.com:mytcer/ios-dev-resources.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIKit/UIWindow/UIWindowDemo/UIWindowDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B85D55EB555BBE6E79DAB4E4DCA90EBA7FB4CB1A</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:mytcer/ios-dev-resources.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B85D55EB555BBE6E79DAB4E4DCA90EBA7FB4CB1A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B85D55EB555BBE6E79DAB4E4DCA90EBA7FB4CB1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-dev-resources</string>
+		</dict>
+	</array>
+</dict>
+</plist>
