@@ -32,6 +32,8 @@ ios-dev-resources
 
 #### **1. UIKit**
 
+> 注：从 IOS 7.0 开始被启用的类，不会整理在次。
+
 * **控制类型**
 
 	* **UIButton**
@@ -249,6 +251,74 @@ ios-dev-resources
 			* [示例源码](UIKit/UIBarButtonItem/UIBarButtonItemDemo)
 
 
+* **手势类型**
+
+	* **UIGestureRecognizer**
+
+		* 作用：手势识别类的抽象基类
+
+		* 父类：NSObject
+
+		* 示例：
+
+		* 参考：
+			* [IOS开发之手势——UIGestureRecognizer](http://www.cnblogs.com/iphone520/archive/2011/10/27/2226548.html)
+
+
+	* **UILongPressGestureRecognizer**
+
+		* 作用：长按
+
+		* 父类：UIGestureRecognizer
+
+		* 示例：
+
+
+	* **UIPanGestureRecognizer**
+
+		* 作用：拖移
+
+		* 父类：UIGestureRecognizer
+
+		* 示例：
+
+
+	* **UIPinchGestureRecognizer**
+
+		* 作用：二指往內或往外拨动
+
+		* 父类：UIGestureRecognizer
+
+		* 示例：
+
+
+	* **UIRotationGestureRecognizer**
+
+		* 作用：旋转
+
+		* 父类：UIGestureRecognizer
+
+		* 示例：
+
+
+	* **UISwipeGestureRecognizer**
+
+		* 作用：滑动
+
+		* 父类：UIGestureRecognizer
+
+		* 示例：
+
+
+	* **UITapGestureRecognizer**
+
+		* 作用：点一下
+
+		* 父类：UIGestureRecognizer
+
+		* 示例：
+
+
 * **其他**
 
 	* **UIWindow**
@@ -322,24 +392,6 @@ ios-dev-resources
 		* 示例：
 			* [预览效果](UIKit/UIImageView/preview.png)
 			* [示例源码](UIKit/UIImageView/UIImageViewDemo)
-
-
-	* **UIAcceleration**
-
-		* 作用：表示即时的三维加速数据。
-
-		* 父类：NSObject
-
-		* **注意：从 IOS 5.0 开始，已弃用该类**
-
-
-	* **UIAccelerometer**
-
-		* 作用：让你的寄存器接收到从板载硬件上得到的加速数据。
-
-		* 父类：NSObject
-
-		* **注意：从 IOS 5.0 开始，已弃用该类**
 
 <br>
 
