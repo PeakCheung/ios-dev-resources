@@ -27,9 +27,11 @@
     imgview.frame = CGRectMake(30, 100, img.size.width, img.size.height);
     // 设置圆角
     imgview.layer.cornerRadius = img.size.width / 2;
+    // 设置圆角时，必须将该属性设置为YES，否则无法生效
     imgview.layer.masksToBounds = YES;
     
-    [self.view addSubview:imgview];}
+    [self.view addSubview:imgview];
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
