@@ -203,8 +203,8 @@ ios-dev-resources
 		* 父类：UIViewController
 
 		* 示例：
-			* [效果预览](UIKit/UITabBar/preview.png)
-			* [示例源码](UIKit/UITabBar/UITabBarDemo)
+			* [效果预览](UIKit/UITabBarController/preview.png)
+			* [示例源码](UIKit/UITabBarController/UITabBarControllerDemo)
 
 		* 注意：使用时，需要将它设置为应用的rootViewController
 
@@ -221,6 +221,10 @@ ios-dev-resources
 		* 示例：
 			* [效果预览](UIKit/UITabBar/preview.png)
 			* [示例源码](UIKit/UITabBar/UITabBarDemo)
+
+		* 参考：
+			* [UITabBar使用示例](http://blog.csdn.net/ljloving/article/details/7609593)
+			* [UITabBar详细说明](http://blog.sina.com.cn/s/blog_9c2363ad0101edck.html)
 
 
 	* **UITabBarItem**
@@ -243,21 +247,6 @@ ios-dev-resources
 		* 示例：
 			* [效果预览](UIKit/UIBarButtonItem/preview.png)
 			* [示例源码](UIKit/UIBarButtonItem/UIBarButtonItemDemo)
-
-
-	* **UITabBar**
-
-		* 作用：工具条，可以用来显示一个或多个按钮
-
-		* 父类：UIView
-
-		* 示例：
-			* [效果预览](UIKit/UITabBar/preview.png)
-			* [示例源码](UIKit/UITabBar/UITabBarDemo)
-
-		* 参考：
-			* [UITabBar使用示例](http://blog.csdn.net/ljloving/article/details/7609593)
-			* [UITabBar详细说明](http://blog.sina.com.cn/s/blog_9c2363ad0101edck.html)
 
 
 * **其他**
