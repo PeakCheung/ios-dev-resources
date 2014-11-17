@@ -251,6 +251,33 @@ ios-dev-resources
 			* [示例源码](UIKit/UIBarButtonItem/UIBarButtonItemDemo)
 
 
+* **菜单类型**
+
+	* **UIMenuController**
+
+		* 作用：菜单
+
+		* 父类：NSObject
+
+		* 示例：
+			* [效果预览](UIKit/UIMenuController/preview.png)
+			* [示例源码](UIKit/UIMenuController/UIMenuControllerDemo)
+
+		* 参考：
+			* [UIMenuController控件的使用及菜单调不出的解决方法](http://blog.csdn.net/jekkihun/article/details/8020685)
+
+
+	* **UIMenuItem**
+
+		* 作用：菜单项
+
+		* 父类：NSObject
+
+		* 示例：
+			* [效果预览](UIKit/UIMenuController/preview.png)
+			* [示例源码](UIKit/UIMenuController/UIMenuControllerDemo)
+
+
 * **手势类型**
 
 	* **UIGestureRecognizer**
@@ -359,6 +386,19 @@ ios-dev-resources
 			* [示例代码](UIKit/UIActionSheet/UIActionSheetDemo)
 
 		* **注意：IOS8已弃用该类**
+
+
+	* **UILocalNotification**
+
+		* 作用：本地通知
+
+		* 父类：NSObject
+
+		* 示例：暂无Demo（模拟器上无法测试该功能）
+
+		* 参考：
+			* [IOS UILocalNotification](http://blog.csdn.net/crayondeng/article/details/12753717)
+			* [UILocalNotification详解](http://blog.csdn.net/qi_ruihua/article/details/8819338)
 
 
 	* **UILabel**
