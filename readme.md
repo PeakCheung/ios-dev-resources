@@ -216,7 +216,7 @@ ios-dev-resources
 
 	* **UITabBar**
 
-		* 作用：标签栏，通常显示在屏幕底部并出现在UITabBarController上下文中，以模态访问一组视图。
+		* 作用：标签栏
 
 		* 父类：UIView
 
