@@ -253,6 +253,15 @@ ios-dev-resources
 
 * **菜单类型**
 
+	* **UIPopoverController**
+
+		* 作用：管理弹出层
+
+		* 父类：NSObject
+
+		* 注意：该类只能用于 ipad 设备，在其他设备上使用会产生异常。
+
+
 	* **UIMenuController**
 
 		* 作用：菜单
@@ -276,6 +285,17 @@ ios-dev-resources
 		* 示例：
 			* [效果预览](UIKit/UIMenuController/preview.png)
 			* [示例源码](UIKit/UIMenuController/UIMenuControllerDemo)
+
+
+	* **UIPickerView**
+
+		* 作用：滚轮选择器
+
+		* 父类：UIView
+
+		* 示例：
+			* [效果预览](UIKit/UIPickerView/preview.png)
+			* [示例源码](UIKit/UIPickerView/UIPickerViewDemo)
 
 
 * **手势类型**

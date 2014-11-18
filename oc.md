@@ -450,4 +450,5 @@
 ### 参考资料
 
 * [@property和@synthesize关键字详解](http://www.cnblogs.com/QM80/p/3576282.html)
+* [Objective-C简介](http://zh.wikipedia.org/wiki/Objective-C)
 		
