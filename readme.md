@@ -470,6 +470,21 @@ ios-dev-resources
 			* [示例源码](UIKit/UIProgressView/UIProgressViewDemo)
 
 
+	* **UIScrollView**
+
+		* 作用：滚动视图（幻灯片）
+
+		* 父类：UIView
+
+		* 示例：
+			* [预览效果](UIKit/UIScrollView/preview.png)
+			* [示例源码](UIKit/UIScrollView/UIScrollViewDemo)
+
+		* 参考：
+			* [理解UIScrollView](http://blog.jobbole.com/70143/)
+			* [UIScrollView](http://www.cnblogs.com/xmqios/p/3489560.html)
+
+
 <br>
 
 ### 五. 参考资料
