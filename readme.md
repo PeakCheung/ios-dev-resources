@@ -261,6 +261,9 @@ ios-dev-resources
 
 		* 注意：该类只能用于 ipad 设备，在其他设备上使用会产生异常。
 
+		* 参考：
+			* [自定义弹出窗口](http://mobile.51cto.com/iphone-396554.htm)
+
 
 	* **UIMenuController**
 
@@ -366,7 +369,7 @@ ios-dev-resources
 		* 示例：
 
 
-* **其他**
+* **窗口类型**
 
 	* **UIWindow**
 
@@ -407,6 +410,8 @@ ios-dev-resources
 
 		* **注意：IOS8已弃用该类**
 
+
+* **其他**
 
 	* **UILocalNotification**
 
@@ -453,6 +458,18 @@ ios-dev-resources
 			* [预览效果](UIKit/UIImageView/preview.png)
 			* [示例源码](UIKit/UIImageView/UIImageViewDemo)
 
+
+	* **UIProgressView**
+
+		* 作用：进度条
+
+		* 父类：UIView
+
+		* 示例：
+			* [预览效果](UIKit/UIProgressView/preview.png)
+			* [示例源码](UIKit/UIProgressView/UIProgressViewDemo)
+
+
 <br>
 
 ### 五. 参考资料
@@ -474,3 +491,5 @@ ios-dev-resources
 * [初探 iOS8 中的 Size Class](http://blog.csdn.net/pleasecallmewhy/article/details/39295327)
 * [iphone6 屏幕特性图解](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
 * [iOS8中LaunchImage和LaunchScreen的完美结合](http://www.simpleapples.com/2014/10/launchsreen-and-launchimage/)
+* [IOS基础 -- 静态库](http://www.cnblogs.com/monicaios/p/3539920.html)
+* [IOS基础 -- 内存分析](http://www.cnblogs.com/monicaios/p/3541095.html)
