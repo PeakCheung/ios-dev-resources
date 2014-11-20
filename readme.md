@@ -495,6 +495,22 @@ ios-dev-resources
 			* [预览效果](UIKit/UITextView/preview.png)
 			* [示例源码](UIKit/UITextView/UITextViewDemo)
 
+
+	* **UICollectionView**
+
+		* 作用：以自定义布局的方式管理有序数据集合
+
+		* 父类：UIScrollView
+
+		* 示例：
+			* [预览效果](UIKit/UICollectionView/preview.png)
+			* [示例源码](UIKit/UICollectionView/UICollectionViewDemo)
+
+		* 参考：
+			* [UICollectionView介绍](http://blog.csdn.net/eqera/article/details/8134986)
+			* [UICollectionView高级使用示例之CircleLayout](http://blog.csdn.net/eqera/article/details/8134994)
+
+
 <br>
 
 ### 五. 参考资料
