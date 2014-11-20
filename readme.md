@@ -485,6 +485,16 @@ ios-dev-resources
 			* [UIScrollView](http://www.cnblogs.com/xmqios/p/3489560.html)
 
 
+	* **UITextView**
+
+		* 作用：类似于 html 中的 textarea
+
+		* 父类：UIScrollView
+
+		* 示例：
+			* [预览效果](UIKit/UITextView/preview.png)
+			* [示例源码](UIKit/UITextView/UITextViewDemo)
+
 <br>
 
 ### 五. 参考资料
