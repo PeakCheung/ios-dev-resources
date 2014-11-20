@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0274E10-8CE4-4896-869A-CA9702DC4B8A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UITextViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7112B28E47F6CE13D577AFE588868D6713E3766F</key>
+		<string>github.com:mytcer/ios-dev-resources.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIKit/UITextView/UITextViewDemo/UITextViewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7112B28E47F6CE13D577AFE588868D6713E3766F</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:mytcer/ios-dev-resources.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7112B28E47F6CE13D577AFE588868D6713E3766F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7112B28E47F6CE13D577AFE588868D6713E3766F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-dev-resources</string>
+		</dict>
+	</array>
+</dict>
+</plist>
