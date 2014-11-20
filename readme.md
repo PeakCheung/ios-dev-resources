@@ -508,3 +508,6 @@ ios-dev-resources
 * [iOS8中LaunchImage和LaunchScreen的完美结合](http://www.simpleapples.com/2014/10/launchsreen-and-launchimage/)
 * [IOS基础 -- 静态库](http://www.cnblogs.com/monicaios/p/3539920.html)
 * [IOS基础 -- 内存分析](http://www.cnblogs.com/monicaios/p/3541095.html)
+* [苹果开发者账号那些事儿（一）账号类型](http://ryantang.me/blog/2013/08/28/apple-account-1/)
+* [苹果开发者账号那些事儿（二）证书](http://ryantang.me/blog/2013/09/03/apple-account-2/)
+* [苹果开发者账号那些事儿（三）配置文件](http://ryantang.me/blog/2013/11/28/apple-account-3/)
