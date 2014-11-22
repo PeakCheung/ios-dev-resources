@@ -15,6 +15,7 @@ ios-dev-resources
 ***
 
 * xcode
+	* [Instruments使用教程](http://blog.csdn.net/toss156/article/details/7579294)
 * [CocoaPods](http://cocoapods.org/)
 
 <br>
@@ -496,7 +497,7 @@ ios-dev-resources
 			* [示例源码](UIKit/UITextView/UITextViewDemo)
 
 
-	* **UICollectionView**
+	* **UICollectionView（无DEMO）**
 
 		* 作用：以自定义布局的方式管理有序数据集合
 
@@ -511,12 +512,36 @@ ios-dev-resources
 			* [UICollectionView高级使用示例之CircleLayout](http://blog.csdn.net/eqera/article/details/8134994)
 
 
+	* **UITableView**
+
+	* **UIWebView**
+
+	* **UIInputView**
+
+	* **UISearchBar**
+
+	* **UIVisualEffectView**
+
+		* 作用：图像虚化
+
+		* 父类：UIView
+
+		* 示例：
+
+		* 参考：
+			* [如何使用iOS 8的虚化效果](http://www.cocoachina.com/ios/20141010/9860.html)
+
+		* 注意：从IOS8开始才可用
+
+
+
 <br>
 
 ### 五. 参考资料
 ***
 
-* [IOS开发官方教程（中文版）](https://developer.apple.com/LIBRARY/ios/referencelibrary/GettingStarted/RoadMapiOSCh/FirstTutorial.html#//apple_ref/doc/uid/TP40012668-CH3-SW1)
+* [IOS开发教程（官方中文版）](https://developer.apple.com/LIBRARY/ios/referencelibrary/GettingStarted/RoadMapiOSCh/FirstTutorial.html#//apple_ref/doc/uid/TP40012668-CH3-SW1)
+* [IOS开发官方示例代码](https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code)
 * [App Programming Guide for iOS](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
 * [IOS人机界面指南（官方英文版）](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/IconMatrix.html#//apple_ref/doc/uid/TP40006556-CH27-SW1)
 * [IOS7人机界面指南（中文版，腾讯团队翻译）](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
