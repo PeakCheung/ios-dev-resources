@@ -533,7 +533,12 @@ ios-dev-resources
 
 		* 注意：从IOS8开始才可用
 
+<br>
 
+#### **2. Assets Library**
+
+* [AssetsLibrary](https://developer.apple.com/library/ios/documentation/AssetsLibrary/Reference/AssetsLibraryFramework/index.html)
+* [Phonts](https://developer.apple.com/library/ios/documentation/Photos/Reference/Photos_Framework/index.html#//apple_ref/doc/uid/TP40014408) 【IOS8开始可用】
 
 <br>
 
