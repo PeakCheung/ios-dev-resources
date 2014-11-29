@@ -198,6 +198,9 @@ ios-dev-resources
 			* [效果预览](UIKit/UINavigationItem/preview.png)
 			* [示例源码](UIKit/UINavigationItem/UINavigationItemDemo)
 
+		* 参考：
+			* [backBarButtonItem详解](http://zgia.net/?tag=backbarbuttonitem)
+
 
 	* **UITabBarController**
 
@@ -396,7 +399,10 @@ ios-dev-resources
 			* [效果预览](UIKit/UIAlertView/preview.png)
 			* [示例代码](UIKit/UIAlertView/UIAlertViewDemo)
 
-		* **注意：IOS8已弃用该类**
+		* **注意：IOS8已弃用该类，对应的替代类是 UIAlertController **
+
+		* 参考：
+			* [UIAlertView在iOS7和iOS8中的兼容性](http://blog.jackriver.im/alert-view-that-can-work-on-ios7-and-ios8/)
 
 
 	* **UIActionSheet**
@@ -514,6 +520,9 @@ ios-dev-resources
 
 	* **UITableView**
 
+		* 参考：
+			* [UITableView与UITableViewCell](http://www.howzhi.com/group/iosDevelop/discuss/2067)
+
 	* **UIWebView**
 
 	* **UIInputView**
@@ -538,7 +547,8 @@ ios-dev-resources
 #### **2. Assets Library**
 
 * [AssetsLibrary](https://developer.apple.com/library/ios/documentation/AssetsLibrary/Reference/AssetsLibraryFramework/index.html)
-* [Phonts](https://developer.apple.com/library/ios/documentation/Photos/Reference/Photos_Framework/index.html#//apple_ref/doc/uid/TP40014408) 【IOS8开始可用】
+* [Photos](https://developer.apple.com/library/ios/documentation/Photos/Reference/Photos_Framework/index.html#//apple_ref/doc/uid/TP40014408) 【IOS8开始可用】
+* [iOS相册多选照片](http://www.iphonetrain.com/blog_info/68.html)
 
 <br>
 

@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>92E4D535-A12D-43B2-AECD-BC440D55743E</string>
+	<string>9A1F0D3E-0BDB-4D04-9F1D-41B8D35E45BC</string>
 	<key>IDESourceControlProjectName</key>
-	<string>UIAlertViewDemo</string>
+	<string>UISearchBarDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>7112B28E47F6CE13D577AFE588868D6713E3766F</key>
 		<string>github.com:mytcer/ios-dev-resources.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>UIKit/UIAlertView/UIAlertViewDemo/UIAlertViewDemo.xcodeproj</string>
+	<string>UIKit/UISearchBar/UISearchBarDemo/UISearchBarDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>7112B28E47F6CE13D577AFE588868D6713E3766F</key>
