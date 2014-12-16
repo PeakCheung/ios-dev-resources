@@ -16,6 +16,7 @@ ios-dev-resources
 
 * xcode
 	* [Instruments使用教程](http://blog.csdn.net/toss156/article/details/7579294)
+
 * [CocoaPods](http://cocoapods.org/)
 
 <br>
@@ -35,392 +36,69 @@ ios-dev-resources
 
 > 注：从 IOS 7.0 开始被废弃的类，不会整理在这里。
 
-* **控制类型**
+* **[UIButton](UIKit/UIButton/readme.md)** -- 按钮
 
-	* **UIButton**
+* **[UISlider](UIKit/UISlider/readme.md)** -- 滑块
 
-		* 作用：按钮
+* **[UISwitch](UIKit/UISwitch/readme.md)** -- 切换
 
-		* 父类：UIControl
+* **[UIDatePicker](UIKit/UIDatePicker/readme.md)** -- 日期选择
 
-		* 示例：
-			* [效果预览](UIKit/UIButton/preview.png)
-			* [示例源码](UIKit/UIButton/UIButtonDemo)
+* **[UIPageControl](UIKit/UIPageControl/readme.md)** -- 分页
 
+* **[UIRefreshControl](UIKit/UIRefreshControl/readme.md)** -- 下拉刷新
 
-	* **UISlider**
+* **[UISegmentedControl](UIKit/UISegmentedControl/readme.md)** -- 类似PC端的tabbar
 
-		* 作用：滑块
+* **[UIStepper](UIKit/UIStepper/readme.md)** -- 增减器
 
-		* 父类：UIControl
+* **[UITextField](UIKit/UITextField/readme.md)** -- 文本输入框
 
-		* 示例：
-			* [效果预览](UIKit/UISlider/preview.png)
-			* [示例源码](UIKit/UISlider/UISliderDemo)
+* **[UIAccessibilityElement](UIKit/UIAccessibilityElement/readme.md)** -- 让 APP 支持无障碍
 
+* **[UINavigationController](UIKit/UINavigationController/readme.md)** -- 导航控制器
 
-	* **UISwitch**
+* **[UINavigationBar](UIKit/UINavigationBar/readme.md)** -- 导航条
 
-		* 作用：开/关按钮
+* **[UINavigationItem](UIKit/UINavigationItem/readme.md)** -- 导航项，管理显示在导航条上的按钮和视图
 
-		* 父类：UIControl
+* **[UITabBarController](UIKit/UITabBarController/readme.md)** -- tabbar控制器
 
-		* 示例：
-			* [效果预览](UIKit/UISwitch/preview.png)
-			* [示例源码](UIKit/UISwitch/UISwitchDemo)
+* **[UITabBar](UIKit/UITabBar/readme.md)** -- tabbar
 
+* **[UITabBarItem](UIKit/UITabBar/readme.md)** -- 显示在tabbar上的视图项
 
-	* **UIDatePicker**
+* **[UIBarButtonItem](UIKit/UIBarButtonItem/readme.md)** -- 显示在导航条和工具条上的按钮
 
-		* 作用：日期 & 时间选择
+* **[UIPopoverController](UIKit/UIPopoverController/readme.md)** -- 弹出层控制器
 
-		* 父类：UIControl
+* **[UIMenuController](UIKit/IMenuController/readme.md)** -- 菜单控制器
 
-		* 示例：
-			* [效果预览](UIKit/UIDatePicker/preview.png)
-			* [示例源码](UIKit/UIDatePicker/UIDatePickerDemo)
+* **[UIMenuItem](UIKit/UIMenuItem/readme.md)** -- 菜单项
 
+* **[UIPickerView](UIKit/UIPickerView/readme.md)** -- 滚轮选择器
 
-	* **UIPageControl**
+* **[UIGestureRecognizer](UIKit/UIGestureRecognizer/readme.md)** -- 手势基础类
 
-		* 作用：分页
+* **UILongPressGestureRecognizer** -- 长按
 
-		* 父类：UIControl
+* **UIPanGestureRecognizer** -- 拖移
 
-		* 示例：
-			* [效果预览](UIKit/UIDatePicker/preview.png)
-			* [示例源码](UIKit/UIDatePicker/UIDatePickerDemo)
+* **UIPinchGestureRecognizer** -- 二指往內或往外拨动
 
+* **UIRotationGestureRecognizer** -- 旋转
 
-	* **UIRefreshControl**
+* **UISwipeGestureRecognizer** -- 滑动
 
-		* 作用：下拉刷新
+* **UITapGestureRecognizer** -- 点一下
 
-		* 父类：UIControl
+* **[UIWindow](UIKit/UIWindow/readme.md)** -- 窗口对象
 
-		* 注意：只能用于UITableViewController中
+* **[UIAlterView](UIKit/UIAlertView/readme.md)** -- alert对话框
 
-		* 示例：
-			* [效果预览](UIKit/UIRefreshControl/preview.png)
-			* [示例源码](UIKit/UIRefreshControl/UIRefreshControlDemo)
+* **[UIActionSheet](UIKit/UIActionSheet/readme.md)** -- 动作表
 
-		* 参考：
-			* [下拉刷新和上拉加载的原理](http://blog.csdn.net/hmt20130412/article/details/32695305)
-
-
-	* **UISegmentedControl**
-
-		* 作用：类似于PC端的tabbar组件
-
-		* 父类：UIControl
-
-		* 示例：
-			* [效果预览](UIKit/UISegmentedControl/preview.png)
-			* [示例源码](UIKit/UISegmentedControl/UISegmentedControlDemo)
-
-
-	* **UIStepper**
-
-		* 作用：+ & -
-
-		* 父类：UIControl
-
-		* 示例：
-			* [效果预览](UIKit/UIStepper/preview.png)
-			* [示例源码](UIKit/UIStepper/UIStepperDemo)
-
-
-	* **UITextField**
-
-		* 作用：文本输入框
-
-		* 父类：UIControl
-
-		* 示例：
-			* [效果预览](UIKit/UITextField/preview.png)
-			* [示例源码](UIKit/UITextField/UITextFieldDemo)
-
-
-* **可访问性**
-
-	* **UIAccessibilityElement**
-
-		* 作用：让 APP 支持无障碍
-
-		* 父类：NSObject
-
-		* 参考：
-			* [让你的iOS APP支持无障碍使用](http://numbbbbb.gitbooks.io/ios-accessibility-programming-guide-in-chinese/content/ios_app/README.html)
-
-
-* **导航类型**
-
-	* **UINavigationController**
-
-		* 作用：它是一个特殊view controller，用于管理层次内容的导航。
-
-		* 父类：UIViewController
-
-		* 示例：
-			* [效果预览](UIKit/UINavigationController/preview.png)
-			* [示例源码](UIKit/UINavigationController/UINavigationControllerDemo)
-
-		* 注意：使用时，需要将它作为应用的rootViewController
-
-		* 参考：
-			* [UINavigationController使用详解（一）](http://blog.csdn.net/totogo2010/article/details/7681879)
-			* [UINavigationController使用详解（二）](http://blog.csdn.net/totogo2010/article/details/7682433)
-			* [UINavigationController使用详解（三）](http://blog.csdn.net/totogo2010/article/details/7682641)
-
-
-	* **UINavigationBar**
-
-		* 作用：导航条
-
-		* 父类：UIView
-
-		* 示例：
-			* [效果预览](UIKit/UINavigationBar/preview.png)
-			* [示例源码](UIKit/UINavigationBar/UINavigationBarDemo)
-
-		* 参考：
-			* [定制导航栏和状态栏](http://beyondvincent.com/blog/2013/11/03/120-customize-navigation-status-bar-ios-7/)
-			* [UINavigationBar & UINavigationBarDelegate](http://code.tutsplus.com/tutorials/ios-sdk-uitextfield-uitextfielddelegate--mobile-10943)	
-	
-
-	* **UINavigationItem**
-
-		* 作用：管理显示在导航条上的按钮和视图
-
-		* 父类：NSObject
-
-		* 示例：
-			* [效果预览](UIKit/UINavigationItem/preview.png)
-			* [示例源码](UIKit/UINavigationItem/UINavigationItemDemo)
-
-		* 参考：
-			* [backBarButtonItem详解](http://zgia.net/?tag=backbarbuttonitem)
-
-
-	* **UITabBarController**
-
-		* 作用：
-
-		* 父类：UIViewController
-
-		* 示例：
-			* [效果预览](UIKit/UITabBarController/preview.png)
-			* [示例源码](UIKit/UITabBarController/UITabBarControllerDemo)
-
-		* 注意：使用时，需要将它设置为应用的rootViewController
-
-		* 参考：
-			* [UITabBarController使用详解](http://www.cnblogs.com/smileEvday/archive/2012/05/20/UITabBarController.html)
-
-
-	* **UITabBar**
-
-		* 作用：标签栏
-
-		* 父类：UIView
-
-		* 示例：
-			* [效果预览](UIKit/UITabBar/preview.png)
-			* [示例源码](UIKit/UITabBar/UITabBarDemo)
-
-		* 参考：
-			* [UITabBar使用示例](http://blog.csdn.net/ljloving/article/details/7609593)
-			* [UITabBar详细说明](http://blog.sina.com.cn/s/blog_9c2363ad0101edck.html)
-
-
-	* **UITabBarItem**
-
-		* 作用：显示在标签栏上的按钮
-
-		* 父类：UIBarItem
-
-		* 示例：
-			* [效果预览](UIKit/UITabBar/preview.png)
-			* [示例源码](UIKit/UITabBar/UITabBarDemo)
-
-
-	* **UIBarButtonItem**
-
-		* 作用：显示在导航条和工具条上的按钮
-
-		* 父类：UIBarItem
-
-		* 示例：
-			* [效果预览](UIKit/UIBarButtonItem/preview.png)
-			* [示例源码](UIKit/UIBarButtonItem/UIBarButtonItemDemo)
-
-
-* **菜单类型**
-
-	* **UIPopoverController**
-
-		* 作用：管理弹出层
-
-		* 父类：NSObject
-
-		* 注意：该类只能用于 ipad 设备，在其他设备上使用会产生异常。
-
-		* 参考：
-			* [自定义弹出窗口](http://mobile.51cto.com/iphone-396554.htm)
-
-
-	* **UIMenuController**
-
-		* 作用：菜单
-
-		* 父类：NSObject
-
-		* 示例：
-			* [效果预览](UIKit/UIMenuController/preview.png)
-			* [示例源码](UIKit/UIMenuController/UIMenuControllerDemo)
-
-		* 参考：
-			* [UIMenuController控件的使用及菜单调不出的解决方法](http://blog.csdn.net/jekkihun/article/details/8020685)
-
-
-	* **UIMenuItem**
-
-		* 作用：菜单项
-
-		* 父类：NSObject
-
-		* 示例：
-			* [效果预览](UIKit/UIMenuController/preview.png)
-			* [示例源码](UIKit/UIMenuController/UIMenuControllerDemo)
-
-
-	* **UIPickerView**
-
-		* 作用：滚轮选择器
-
-		* 父类：UIView
-
-		* 示例：
-			* [效果预览](UIKit/UIPickerView/preview.png)
-			* [示例源码](UIKit/UIPickerView/UIPickerViewDemo)
-
-
-* **手势类型**
-
-	* **UIGestureRecognizer**
-
-		* 作用：手势识别类的抽象基类
-
-		* 父类：NSObject
-
-		* 示例：
-
-		* 参考：
-			* [IOS开发之手势——UIGestureRecognizer](http://www.cnblogs.com/iphone520/archive/2011/10/27/2226548.html)
-
-
-	* **UILongPressGestureRecognizer**
-
-		* 作用：长按
-
-		* 父类：UIGestureRecognizer
-
-		* 示例：
-
-
-	* **UIPanGestureRecognizer**
-
-		* 作用：拖移
-
-		* 父类：UIGestureRecognizer
-
-		* 示例：
-
-
-	* **UIPinchGestureRecognizer**
-
-		* 作用：二指往內或往外拨动
-
-		* 父类：UIGestureRecognizer
-
-		* 示例：
-
-
-	* **UIRotationGestureRecognizer**
-
-		* 作用：旋转
-
-		* 父类：UIGestureRecognizer
-
-		* 示例：
-
-
-	* **UISwipeGestureRecognizer**
-
-		* 作用：滑动
-
-		* 父类：UIGestureRecognizer
-
-		* 示例：
-
-
-	* **UITapGestureRecognizer**
-
-		* 作用：点一下
-
-		* 父类：UIGestureRecognizer
-
-		* 示例：
-
-
-* **窗口类型**
-
-	* **UIWindow**
-
-		* 作用：定义一个窗口对象，用于管理和协调显示于设备屏幕上的应用视图。
-
-		* 父类：UIView
-
-		* 示例：
-			* [示例代码](UIKit/UIWindow/UIWindowDemo)
-	
-		* 参考：
-			* [UIWindow简介](http://www.cnblogs.com/wendingding/p/3770052.html)
-			* [UIWindowLevel & KeyWindow](http://www.cnblogs.com/smileEvday/archive/2012/11/16/UIWindow.html)
-	
-	
-	* **UIAlterView**
-
-		* 作用：alert对话框
-
-		* 父类：UIView
-
-		* 示例：
-			* [效果预览](UIKit/UIAlertView/preview.png)
-			* [示例代码](UIKit/UIAlertView/UIAlertViewDemo)
-
-		* **注意：IOS8已弃用该类，对应的替代类是 UIAlertController **
-
-		* 参考：
-			* [UIAlertView在iOS7和iOS8中的兼容性](http://blog.jackriver.im/alert-view-that-can-work-on-ios7-and-ios8/)
-
-
-	* **UIActionSheet**
-
-		* 作用：多操作对话框
-
-		* 父类：UIView
-
-		* 示例：
-			* [效果预览](UIKit/UIActionSheet/preview.png)
-			* [示例代码](UIKit/UIActionSheet/UIActionSheetDemo)
-
-		* **注意：IOS8已弃用该类**
-
-
-* **其他**
-
-	* **UILocalNotification**
+* **UILocalNotification**
 
 		* 作用：本地通知
 
@@ -577,3 +255,10 @@ ios-dev-resources
 * [苹果开发者账号那些事儿（一）账号类型](http://ryantang.me/blog/2013/08/28/apple-account-1/)
 * [苹果开发者账号那些事儿（二）证书](http://ryantang.me/blog/2013/09/03/apple-account-2/)
 * [苹果开发者账号那些事儿（三）配置文件](http://ryantang.me/blog/2013/11/28/apple-account-3/)
+
+
+<br>
+
+### 六. 需注意的知识点
+
+* [关于viewWithTag的一点说明](http://blog.csdn.net/smking/article/details/8590547)
