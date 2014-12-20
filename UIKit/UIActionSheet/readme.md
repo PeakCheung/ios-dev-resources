@@ -2,9 +2,9 @@
 
 ### DEMO
 
-* [效果预览](UIKit/UIActionSheet/preview.png)
+* [效果预览](preview.png)
 
-* [示例代码](UIKit/UIActionSheet/UIActionSheetDemo)
+* [示例代码](UIActionSheetDemo)
 
 <br>
 

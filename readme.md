@@ -98,127 +98,33 @@ ios-dev-resources
 
 * **[UIActionSheet](UIKit/UIActionSheet/readme.md)** -- 动作表
 
-* **UILocalNotification**
+* **[UILocalNotification](UIKit/UILocalNotification/readme.md)** -- 本地通知
 
-		* 作用：本地通知
+* **[UILabel](UIKit/UILabel/readme.md)** -- 显示只读文本
 
-		* 父类：NSObject
+* **[UIImage](UIKit/UIImage/readme.md)** -- 载入图像数据
 
-		* 示例：暂无Demo（模拟器上无法测试该功能）
+* **[UIImageView](UIKit/UIImageView/readme.md)** -- 显示图像
 
-		* 参考：
-			* [IOS UILocalNotification](http://blog.csdn.net/crayondeng/article/details/12753717)
-			* [UILocalNotification详解](http://blog.csdn.net/qi_ruihua/article/details/8819338)
+* **[UIProgressView](UIKit/UIProgressView/readme.md)** -- 进度条
 
+* **[UIScrollView](UIKit/UIScrollView/readme.md)** -- 幻灯片
 
-	* **UILabel**
+* **[UITextView](UIKit/UITextView/readme.md)** -- 类似于 html 中的 textarea
 
-		* 作用：显示只读文本
+* **[UICollectionView](UIKit/UICollectionView/readme.md)** -- 以自定义布局的方式管理有序数据集合
 
-		* 父类：UIView
+* **[UITableView](UIKit/UITableView/readme.md)** -- 表格
 
-		* 示例：
-			* [预览效果](UIKit/UILabel/preview.png)
-			* [示例源码](UIKit/UILabel/UILabelDemo)
+* **UIWebView**
 
+* **UIInputView**
 
-	* **UIImage**
+* **UISearchBar**
 
-		* 作用：载入图像数据
+* **[UIVisualEffectView](UIKit/UIVisualEffectView/readme.md)** -- 图像虚化
 
-		* 父类：NSObject
-
-		* 示例：
-			* [预览效果](UIKit/UIImageView/preview.png)
-			* [示例源码](UIKit/UIImageView/UIImageViewDemo)
-
-
-	* **UIImageView**
-
-		* 作用：提供了一个视图容器来显示图像
-
-		* 父类：UIView
-
-		* 示例：
-			* [预览效果](UIKit/UIImageView/preview.png)
-			* [示例源码](UIKit/UIImageView/UIImageViewDemo)
-
-
-	* **UIProgressView**
-
-		* 作用：进度条
-
-		* 父类：UIView
-
-		* 示例：
-			* [预览效果](UIKit/UIProgressView/preview.png)
-			* [示例源码](UIKit/UIProgressView/UIProgressViewDemo)
-
-
-	* **UIScrollView**
-
-		* 作用：滚动视图（幻灯片）
-
-		* 父类：UIView
-
-		* 示例：
-			* [预览效果](UIKit/UIScrollView/preview.png)
-			* [示例源码](UIKit/UIScrollView/UIScrollViewDemo)
-
-		* 参考：
-			* [理解UIScrollView](http://blog.jobbole.com/70143/)
-			* [UIScrollView](http://www.cnblogs.com/xmqios/p/3489560.html)
-
-
-	* **UITextView**
-
-		* 作用：类似于 html 中的 textarea
-
-		* 父类：UIScrollView
-
-		* 示例：
-			* [预览效果](UIKit/UITextView/preview.png)
-			* [示例源码](UIKit/UITextView/UITextViewDemo)
-
-
-	* **UICollectionView（无DEMO）**
-
-		* 作用：以自定义布局的方式管理有序数据集合
-
-		* 父类：UIScrollView
-
-		* 示例：
-			* [预览效果](UIKit/UICollectionView/preview.png)
-			* [示例源码](UIKit/UICollectionView/UICollectionViewDemo)
-
-		* 参考：
-			* [UICollectionView介绍](http://blog.csdn.net/eqera/article/details/8134986)
-			* [UICollectionView高级使用示例之CircleLayout](http://blog.csdn.net/eqera/article/details/8134994)
-
-
-	* **UITableView**
-
-		* 参考：
-			* [UITableView与UITableViewCell](http://www.howzhi.com/group/iosDevelop/discuss/2067)
-
-	* **UIWebView**
-
-	* **UIInputView**
-
-	* **UISearchBar**
-
-	* **UIVisualEffectView**
-
-		* 作用：图像虚化
-
-		* 父类：UIView
-
-		* 示例：
-
-		* 参考：
-			* [如何使用iOS 8的虚化效果](http://www.cocoachina.com/ios/20141010/9860.html)
-
-		* 注意：从IOS8开始才可用
+* **[UIToolbar](UIKit/UIToolbar/readme.md)** -- 工具条
 
 <br>
 

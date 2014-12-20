@@ -2,9 +2,9 @@
 
 ### DEMO
 
-* [效果预览](UIKit/UIMenuController/preview.png)
+* [效果预览](preview.png)
 
-* [示例源码](UIKit/UIMenuController/UIMenuControllerDemo)
+* [示例源码](UIMenuControllerDemo)
 
 <br>
 
