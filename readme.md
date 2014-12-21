@@ -36,95 +36,95 @@ ios-dev-resources
 
 > 注：从 IOS 7.0 开始被废弃的类，不会整理在这里。
 
-* **[UIButton](UIKit/UIButton/readme.md)** -- 按钮
+* [UIButton](UIKit/UIButton/readme.md) -- 按钮
 
-* **[UISlider](UIKit/UISlider/readme.md)** -- 滑块
+* [UISlider](UIKit/UISlider/readme.md) -- 滑块
 
-* **[UISwitch](UIKit/UISwitch/readme.md)** -- 切换
+* [UISwitch](UIKit/UISwitch/readme.md) -- 切换
 
-* **[UIDatePicker](UIKit/UIDatePicker/readme.md)** -- 日期选择
+* [UIDatePicker](UIKit/UIDatePicker/readme.md) -- 日期选择
 
-* **[UIPageControl](UIKit/UIPageControl/readme.md)** -- 分页
+* [UIPageControl](UIKit/UIPageControl/readme.md) -- 分页
 
-* **[UIRefreshControl](UIKit/UIRefreshControl/readme.md)** -- 下拉刷新
+* [UIRefreshControl](UIKit/UIRefreshControl/readme.md) -- 下拉刷新
 
-* **[UISegmentedControl](UIKit/UISegmentedControl/readme.md)** -- 类似PC端的tabbar
+* [UISegmentedControl](UIKit/UISegmentedControl/readme.md) -- 类似PC端的tabbar
 
-* **[UIStepper](UIKit/UIStepper/readme.md)** -- 增减器
+* [UIStepper](UIKit/UIStepper/readme.md) -- 增减器
 
-* **[UITextField](UIKit/UITextField/readme.md)** -- 文本输入框
+* [UITextField](UIKit/UITextField/readme.md) -- 文本输入框
 
-* **[UIAccessibilityElement](UIKit/UIAccessibilityElement/readme.md)** -- 让 APP 支持无障碍
+* [UIAccessibilityElement](UIKit/UIAccessibilityElement/readme.md) -- 让 APP 支持无障碍
 
-* **[UINavigationController](UIKit/UINavigationController/readme.md)** -- 导航控制器
+* [UINavigationController](UIKit/UINavigationController/readme.md) -- 导航控制器
 
-* **[UINavigationBar](UIKit/UINavigationBar/readme.md)** -- 导航条
+* [UINavigationBar](UIKit/UINavigationBar/readme.md) -- 导航条
 
-* **[UINavigationItem](UIKit/UINavigationItem/readme.md)** -- 导航项，管理显示在导航条上的按钮和视图
+* [UINavigationItem](UIKit/UINavigationItem/readme.md) -- 导航项，管理显示在导航条上的按钮和视图
 
-* **[UITabBarController](UIKit/UITabBarController/readme.md)** -- tabbar控制器
+* [UITabBarController](UIKit/UITabBarController/readme.md) -- tabbar控制器
 
-* **[UITabBar](UIKit/UITabBar/readme.md)** -- tabbar
+* [UITabBar](UIKit/UITabBar/readme.md) -- tabbar
 
-* **[UITabBarItem](UIKit/UITabBar/readme.md)** -- 显示在tabbar上的视图项
+* [UITabBarItem](UIKit/UITabBar/readme.md) -- 显示在tabbar上的视图项
 
-* **[UIBarButtonItem](UIKit/UIBarButtonItem/readme.md)** -- 显示在导航条和工具条上的按钮
+* [UIBarButtonItem](UIKit/UIBarButtonItem/readme.md) -- 显示在导航条和工具条上的按钮
 
-* **[UIPopoverController](UIKit/UIPopoverController/readme.md)** -- 弹出层控制器
+* [UIPopoverController](UIKit/UIPopoverController/readme.md) -- 弹出层控制器
 
-* **[UIMenuController](UIKit/IMenuController/readme.md)** -- 菜单控制器
+* [UIMenuController](UIKit/IMenuController/readme.md) -- 菜单控制器
 
-* **[UIMenuItem](UIKit/UIMenuItem/readme.md)** -- 菜单项
+* [UIMenuItem](UIKit/UIMenuItem/readme.md) -- 菜单项
 
-* **[UIPickerView](UIKit/UIPickerView/readme.md)** -- 滚轮选择器
+* [UIPickerView](UIKit/UIPickerView/readme.md) -- 滚轮选择器
 
-* **[UIGestureRecognizer](UIKit/UIGestureRecognizer/readme.md)** -- 手势基础类
+* [UIGestureRecognizer](UIKit/UIGestureRecognizer/readme.md) -- 手势基础类
 
-* **UILongPressGestureRecognizer** -- 长按
+* UILongPressGestureRecognizer -- 长按
 
-* **UIPanGestureRecognizer** -- 拖移
+* UIPanGestureRecognizer -- 拖移
 
-* **UIPinchGestureRecognizer** -- 二指往內或往外拨动
+* UIPinchGestureRecognizer -- 二指往內或往外拨动
 
-* **UIRotationGestureRecognizer** -- 旋转
+* UIRotationGestureRecognizer -- 旋转
 
-* **UISwipeGestureRecognizer** -- 滑动
+* UISwipeGestureRecognizer -- 滑动
 
-* **UITapGestureRecognizer** -- 点一下
+* UITapGestureRecognizer -- 点一下
 
-* **[UIWindow](UIKit/UIWindow/readme.md)** -- 窗口对象
+* [UIWindow](UIKit/UIWindow/readme.md) -- 窗口对象
 
-* **[UIAlterView](UIKit/UIAlertView/readme.md)** -- alert对话框
+* [UIAlterView](UIKit/UIAlertView/readme.md) -- alert对话框
 
-* **[UIActionSheet](UIKit/UIActionSheet/readme.md)** -- 动作表
+* [UIActionSheet](UIKit/UIActionSheet/readme.md) -- 动作表
 
-* **[UILocalNotification](UIKit/UILocalNotification/readme.md)** -- 本地通知
+* [UILocalNotification](UIKit/UILocalNotification/readme.md) -- 本地通知
 
-* **[UILabel](UIKit/UILabel/readme.md)** -- 显示只读文本
+* [UILabel](UIKit/UILabel/readme.md) -- 显示只读文本
 
-* **[UIImage](UIKit/UIImage/readme.md)** -- 载入图像数据
+* [UIImage](UIKit/UIImage/readme.md) -- 载入图像数据
 
-* **[UIImageView](UIKit/UIImageView/readme.md)** -- 显示图像
+* [UIImageView](UIKit/UIImageView/readme.md) -- 显示图像
 
-* **[UIProgressView](UIKit/UIProgressView/readme.md)** -- 进度条
+* [UIProgressView](UIKit/UIProgressView/readme.md) -- 进度条
 
-* **[UIScrollView](UIKit/UIScrollView/readme.md)** -- 幻灯片
+* [UIScrollView](UIKit/UIScrollView/readme.md) -- 幻灯片
 
-* **[UITextView](UIKit/UITextView/readme.md)** -- 类似于 html 中的 textarea
+* [UITextView](UIKit/UITextView/readme.md) -- 类似于 html 中的 textarea
 
-* **[UICollectionView](UIKit/UICollectionView/readme.md)** -- 以自定义布局的方式管理有序数据集合
+* [UICollectionView](UIKit/UICollectionView/readme.md) -- 以自定义布局的方式管理有序数据集合
 
-* **[UITableView](UIKit/UITableView/readme.md)** -- 表格
+* [UITableView](UIKit/UITableView/readme.md) -- 表格
 
-* **UIWebView**
+* UIWebView**
 
-* **UIInputView**
+* UIInputView**
 
-* **UISearchBar**
+* [UISearchBar](UIKit/UISearchBar/readme.md)** -- 搜索条
 
-* **[UIVisualEffectView](UIKit/UIVisualEffectView/readme.md)** -- 图像虚化
+* [UIVisualEffectView](UIKit/UIVisualEffectView/readme.md) -- 图像虚化
 
-* **[UIToolbar](UIKit/UIToolbar/readme.md)** -- 工具条
+* [UIToolbar](UIKit/UIToolbar/readme.md) -- 工具条
 
 <br>
 
