@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  UITableViewControllerDemo
 //
-//  Created by xidanjueying on 14/11/29.
+//  Created by xidanjueying on 14/12/21.
 //  Copyright (c) 2014年 xidanjueying. All rights reserved.
 //
 
@@ -16,7 +16,10 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    
+    UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:self.window.rootViewController];
+    self.window.rootViewController = nav;
+    
     return YES;
 }
 

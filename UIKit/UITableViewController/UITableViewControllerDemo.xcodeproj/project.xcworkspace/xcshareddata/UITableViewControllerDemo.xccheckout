@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>02485A97-7F3B-4DD1-A7AC-9C2891A1CB70</string>
+	<string>9AACF88C-DA0F-44FF-BD15-E38C9A1D7AAE</string>
 	<key>IDESourceControlProjectName</key>
 	<string>UITableViewControllerDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,7 +14,7 @@
 		<string>github.com:mytcer/ios-dev-resources.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>UIKit/UITableViewController/UITableViewControllerDemo/UITableViewControllerDemo.xcodeproj</string>
+	<string>UIKit/UIPageControl/UITableViewControllerDemo/UITableViewControllerDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>7112B28E47F6CE13D577AFE588868D6713E3766F</key>

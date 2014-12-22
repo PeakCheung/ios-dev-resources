@@ -114,6 +114,8 @@ ios-dev-resources
 
 * [UICollectionView](UIKit/UICollectionView/readme.md) -- 以自定义布局的方式管理有序数据集合
 
+* [UITableViewController](UIKit/UITableViewController/readme.md)
+
 * [UITableView](UIKit/UITableView/readme.md) -- 表格
 
 * UIWebView**
@@ -133,6 +135,16 @@ ios-dev-resources
 * [AssetsLibrary](https://developer.apple.com/library/ios/documentation/AssetsLibrary/Reference/AssetsLibraryFramework/index.html)
 * [Photos](https://developer.apple.com/library/ios/documentation/Photos/Reference/Photos_Framework/index.html#//apple_ref/doc/uid/TP40014408) 【IOS8开始可用】
 * [iOS相册多选照片](http://www.iphonetrain.com/blog_info/68.html)
+
+<br>
+
+#### **3. 常用的第三方库**
+
+* [MBProgressHUD](https://github.com/jdg/MBProgressHUD) -- 进度指示器（如常见的“加载中...”）
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking) -- 处理网络请求
+* [SDWebImage](https://github.com/rs/SDWebImage) -- 支持缓存的图片延迟加载
+* [EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh) -- 上拉刷新
+* [JSONKit](https://github.com/johnezang/JSONKit) -- json处理
 
 <br>
 
