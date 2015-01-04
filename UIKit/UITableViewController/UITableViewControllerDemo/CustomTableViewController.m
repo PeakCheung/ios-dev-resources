@@ -32,7 +32,7 @@
     self.clearsSelectionOnViewWillAppear = YES;
     // 设置行高
     self.tableView.rowHeight = 80;
-    
+    // 导航条标题
     self.navigationItem.title = @"second";
 }
 

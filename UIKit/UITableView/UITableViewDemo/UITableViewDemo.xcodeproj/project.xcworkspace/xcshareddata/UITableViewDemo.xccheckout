@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>9AACF88C-DA0F-44FF-BD15-E38C9A1D7AAE</string>
+	<string>E537108D-B5D5-49E5-A2EB-993F659E7A25</string>
 	<key>IDESourceControlProjectName</key>
-	<string>UITableViewControllerDemo</string>
+	<string>UITableViewDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>7112B28E47F6CE13D577AFE588868D6713E3766F</key>
 		<string>github.com:mytcer/ios-dev-resources.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>UIKit/UITableViewController/UITableViewControllerDemo.xcodeproj</string>
+	<string>UIKit/UITableView/UITableViewDemo/UITableViewDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>7112B28E47F6CE13D577AFE588868D6713E3766F</key>
-		<string>../../../..</string>
+		<string>../../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:mytcer/ios-dev-resources.git</string>
