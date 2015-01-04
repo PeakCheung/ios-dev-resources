@@ -2,8 +2,8 @@
 //  ViewController.h
 //  UIImagePickerControllerDemo
 //
-//  Created by xidanjueying on 14/11/23.
-//  Copyright (c) 2014年 xidanjueying. All rights reserved.
+//  Created by xidanjueying on 15/1/4.
+//  Copyright (c) 2015年 xidanjueying. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

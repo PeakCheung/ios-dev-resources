@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>D1C0D1AE-00A6-4B7F-B0C4-E014381DB3BF</string>
+	<string>A91C3326-979D-41ED-AB96-007158982889</string>
 	<key>IDESourceControlProjectName</key>
 	<string>UIImagePickerControllerDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>github.com:mytcer/ios-dev-resources.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>UIKit/UIImagePickerController/UIImagePickerControllerDemo/UIImagePickerControllerDemo.xcodeproj</string>
+	<string>UIKit/UIImagePickerControllerDemo/UIImagePickerControllerDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>7112B28E47F6CE13D577AFE588868D6713E3766F</key>
-		<string>../../../../..</string>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:mytcer/ios-dev-resources.git</string>

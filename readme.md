@@ -106,6 +106,8 @@ ios-dev-resources
 
 * [UIImageView](UIKit/UIImageView/readme.md) -- 显示图像
 
+* [UIImagePickerController](UIKit/UIImagePickerController/readme.md) -- 拍照、摄像、从app中选择照片和视频
+
 * [UIProgressView](UIKit/UIProgressView/readme.md) -- 进度条
 
 * [UIScrollView](UIKit/UIScrollView/readme.md) -- 幻灯片
@@ -116,7 +118,7 @@ ios-dev-resources
 
 * [UITableViewController](UIKit/UITableViewController/readme.md)
 
-* [UITableView](UIKit/UITableView/readme.md) -- 表格
+* [UITableView](UIKit/UITableView/readme.md) -- 表格视图
 
 * UIWebView**
 
