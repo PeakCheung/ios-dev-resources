@@ -56,19 +56,20 @@
 }
 
 - (void)setBottomToolbar {
-    UIToolbar *toolbar = [[UIToolbar alloc] init];
-    toolbar.frame = CGRectMake(0, SCREEN_HEIGHT - 50, SCREEN_WIDTH, 50);
-    toolbar.items = @[
-                      [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemCompose target:nil action:nil],
-                      [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemFlexibleSpace target:nil action:nil],
-                      [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemReply target:nil action:nil],
-                      [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemFlexibleSpace target:nil action:nil],
-                      [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAction target:nil action:nil],
-                      [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemFlexibleSpace target:nil action:nil],
-                      [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemSearch target:nil action:nil]
+    UITabBar *tabbar = [[UITabBar alloc] init];
+    tabbar.frame = CGRectMake(0, SCREEN_HEIGHT - 50, SCREEN_WIDTH, 50);
+    tabbar.items = @[
+                      [[UITabBarItem alloc] initWithTabBarSystemItem:UITabBarSystemItemFavorites tag:0],
+                      [[UITabBarItem alloc] initWithTabBarSystemItem:UITabBarSystemItemRecents tag:1],
+                      [[UITabBarItem alloc] initWithTabBarSystemItem:UITabBarSystemItemContacts tag:2],
+                      [[UITabBarItem alloc] initWithTabBarSystemItem:UITabBarSystemItemMore tag:3]
                       ];
+    tabbar.barStyle = UIBarStyleDefault;
+    tabbar.itemPositioning = UITabBarItemPositioningAutomatic;
+    tabbar.selectedItem = tabbar.items[1];
+    tabbar.selectedItem.badgeValue = @"1";
     
-    [self.view addSubview:toolbar];
+    [self.view addSubview:tabbar];
 }
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
